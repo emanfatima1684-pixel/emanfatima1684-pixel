@@ -3,7 +3,7 @@
 # 💫 Hello World, I'm Eman Fatima
 ### ✨ Full Stack Developer | Oracle APEX Specialist ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Mastering+JavaScript+%26+React;Oracle+APEX+Solutions;UI%2FUX+with+Tailwind+%26+Figma;Building+from+Faisalabad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Mastering+JavaScript+%26t;Oracle+APEX+Solutions;UI%2FUX+with+Tailwind+%26+Figma;Building+from+Faisalabad" alt="Typing SVG" />
 
 ---
 
