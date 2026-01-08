@@ -1,51 +1,63 @@
 <div align="center">
 
-# Hi 👋, I'm Eman Fatima
+# 💫 Hello World, I'm Eman Fatima
+### ✨ Full Stack Developer | Oracle APEX Specialist ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Oracle+Apex+Expert;Passionate+from+Faisalabad;Building+Modern+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Mastering+JavaScript+%26+React;Oracle+APEX+Solutions;UI%2FUX+with+Tailwind+%26+Figma;Building+from+Faisalabad" alt="Typing SVG" />
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emanfatima1684-pixel&label=Profile%20views&color=0e75b6&style=flat-square" alt="emanfatima1684-pixel" />
+  <img src="https://komarev.com/ghpvc/?username=emanfatima1684-pixel&label=PROFILE+VIEWS&color=4ADE80&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/emanfatima1684-pixel?label=FOLLOWERS&style=flat-square&color=36BCF7" />
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently working on **Full Stack Projects & Oracle Apex Solutions**
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js, and Vue.js**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/emanfatima1684-pixel?tab=repositories)
-- 📫 Reach me at: **EMANFATIMA1684@GMAIL.COM**
+</div>
+
+### 👩‍💻 About Me
+I am a driven developer who loves bridging the gap between robust database architecture and modern, sleek user interfaces. Currently expanding my horizons into the MERN stack and Vue.js.
+
+* 🔭 **Focusing on:** High-performance Oracle APEX applications.
+* 🌱 **Learning Path:** Advanced Node.js and React State Management.
+* 📫 **Contact:** [EMANFATIMA1684@GMAIL.COM](mailto:EMANFATIMA1684@GMAIL.COM)
+* ⚡ **Fun Fact:** I believe clean code is like poetry.
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🛠️ Tech Toolbox
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `React.js` `Vue.js` `Tailwind CSS` `Bootstrap` |
+| **Backend** | `Node.js` `PHP` `Oracle APEX` |
+| **Database** | `MySQL` `Oracle DB` `PostgreSQL` |
+| **Design** | `Figma` `Canva` |
+
+---
+
+### 📊 My GitHub Universe
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanfatima1684-pixel&show_icons=true&theme=radical&hide_border=true&title_color=4ADE80&icon_color=36BCF7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima1684-pixel&layout=compact&theme=radical&hide_border=true&title_color=4ADE80" />
+</div>
 
 ---
 
 ### 🤝 Connect with me
+<div align="left">
 <a href="https://linkedin.com/in/eman-fatima-64aa8a271/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:EMANFATIMA1684@GMAIL.COM">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
-<br>
+<br />
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emanfatima1684-pixel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima1684-pixel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
