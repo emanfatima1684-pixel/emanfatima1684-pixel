@@ -39,7 +39,7 @@ const eman = {
     currentFocus: ["MERN Stack", "Vue.js Ecosystem", "System Design"],
     philosophy: "Clean code is poetry; great UX is magic ✨",
     askMeAbout: ["Web Development", "Oracle APEX", "UI/UX Design", "Database Architecture"],
-    funFact: "I debug with console.log and I'm not ashamed 😄"
+    
 };
 ```
 
