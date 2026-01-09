@@ -14,7 +14,7 @@
 
 <!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&height=100&lines=Crafting+Elegant+Web+Solutions;Oracle+APEX+%26+MERN+Stack;Designing+Beautiful+UI%2FUX;From+Faisalabad+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&height=100&lines=Crafting+Elegant+Web+Solutions;Oracle+APEX+%26+MERN+Stack;Designing+Beautiful+UI%2FUX;From+Faisalabad%2C+Pakistan" alt="Typing SVG" />
 </a>
 
 <!-- Profile badges -->
